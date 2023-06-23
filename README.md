@@ -1,5 +1,3 @@
-Sure, here is a sample README.md file for an assignment management system implemented in Java using NetBeans IDE and MySQL:
-
 
 # Assignment Management System
 
@@ -32,11 +30,13 @@ The assignment management system can be used to create, edit, and delete assignm
 
 ## Credits
 
-This project was created by Raja Subramanian V & Vijaya Gokul K .
-* https://github.com/VRajaSubramanian
-* https://github.com/VijayaGokul
+* This project was developed by Raja Subramanian V & Vijaya Gokul K.
+* https://github.com/VRajaSubramanian/
+* https://github.com/VijayaGokul/
+* The code is licensed under the MIT License.
 
-## License
+## Contact
 
-This project is licensed under the MIT License.
+If you have any questions or feedback, please contact rajasubramanianvel@gmail.com
+
 
